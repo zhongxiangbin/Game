@@ -1,2 +1,2 @@
 # Game
-祖玛游戏（https://github.com/zhongxiangbin/Game/04祖玛游戏.html）
+祖玛游戏（https://github.com/zhongxiangbin/Game/祖玛游戏/4简易祖玛.html）
